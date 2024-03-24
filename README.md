@@ -15,8 +15,7 @@
 As a network and info-sec enthusiast the purpose of this project was originally to make a keylogger.<br>
 I decided to see what else can be incorporated and the project evolved into more of the functionality of spyware.<br>
 Despite such functionality, the program does not attempt persistence or modify the registry, so it can be run outside of sandboxes.<br>
-Tutorial can be found at https://cybr.com/ethical-hacking-archives/how-i-made-a-python-keylogger-that-sends-emails/
-
+Tutorial can be found at https://www.youtube.com/watch?v=25um032xgrw
 ## How it works
 - Creates a directory to temporarily store information to exfiltrate
 - Gets all the essential network information -> stores to log file &ensp; (takes about a minute in a half)
