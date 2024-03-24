@@ -3,8 +3,6 @@
 &#9745;&#65039; Bandit verified &nbsp;|&nbsp; &#9745;&#65039; Synk verified &nbsp;|&nbsp; &#9745;&#65039; Pylint verified 9.89/10
 <br><br>
 
-![alt text](https://github.com/ngimb64/Advanced-Keylogger/blob/master/Advanced_Keylogger.png?raw=true)
-![alt text](https://github.com/ngimb64/Advanced-Keylogger/blob/master/AdvancedKeylogger.png?raw=true)
 </div>
 
 ## Notice
